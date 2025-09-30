@@ -32,7 +32,7 @@ Connect an Application Load Balancer to multiple EC2 instances with path based r
 - Create a new ALB: webservers-alb
 - SG: webservers-alb-sg
 
-  - IMAGE
+  ![alt text](image-14.png)
 
 - Run your ALB on multiple AZs
   ![alt text](image-3.png)
